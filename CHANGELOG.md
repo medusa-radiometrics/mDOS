@@ -2,6 +2,11 @@
 
 All notable changes to mDOS are tracked in this file, per version.
 
+## [v4.0 - build 6]
+
+### Added
+- Added support for the Medusa Lidar sensor.
+
 ## [v4.0 - build 5]
 
 ### Added
